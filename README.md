@@ -6,3 +6,6 @@ this is my attempt at simplifying code that was not structured in semantic html 
 
 <h2>Finished Website</h2>
 <img src="https://github.com/RobertElvidge/code_refactor-project-for-robert-elvidge/blob/main/Screenshot%20of%20page_index.html.png">
+
+##website link
+https://robertelvidge.github.io/code_refactor-project-for-robert-elvidge/
